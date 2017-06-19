@@ -14,4 +14,4 @@ if(answer === number) {
 }
 
 // 結果を表示
-document.getElementById('choice').texetContent = messege;
+document.getElementById('choice').texetContent = message;
